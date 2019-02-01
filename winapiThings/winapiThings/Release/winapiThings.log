@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.cpp(26): warning C4101: 'written': unreferenced local variable
+  Generating code
+  3 of 10 functions (30.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  winapiThings.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\winapiThings\Release\winapiThings.exe
+  winapiThings.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\winapiThings\Release\winapiThings.pdb (Full PDB)
